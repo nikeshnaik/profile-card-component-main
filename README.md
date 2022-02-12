@@ -27,3 +27,4 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ## Deployed on
 
+https://zen-pare-80736b.netlify.app/
